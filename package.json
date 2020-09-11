@@ -1,0 +1,14 @@
+{
+  "name": "pronadi-me-admin",
+  "version": "1.0.0",
+  "description": "Admin akcije za pronadi.me",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tonio Ercegović",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
